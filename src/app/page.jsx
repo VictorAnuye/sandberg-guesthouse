@@ -1,6 +1,5 @@
 "use client"
 import Image from "next/image";
-// import homepage from '../app/public/homepage.jpg'
 // import navbar from "../app/components"
 import Link from "next/link";
 import SANDBERG_LOGO from "@/app/public/SANDBERG_LOGO-removebg-preview.png"
